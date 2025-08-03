@@ -1,6 +1,7 @@
 #ifndef FUNCIONES_H
 #define FUNCIONES_H
 
+//prototipo de funciones en el archivo header
 
 int printFunction(void);
 float imcFunction(float masa, float altura);

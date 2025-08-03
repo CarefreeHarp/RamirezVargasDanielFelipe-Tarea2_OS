@@ -1,3 +1,6 @@
+
+//Implementacion de las funciones del header "funciones.h" 
+
 #include "funciones.h"
 #include <stdio.h>
 #include <stdlib.h>

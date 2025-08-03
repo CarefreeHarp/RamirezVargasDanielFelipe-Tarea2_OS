@@ -17,7 +17,7 @@
 * Objetivo: Crear archivos en C para lograr una compilacion modular     *
 *                                                                       *
 * Descripcion: Creacion de un archivo main, funciones que utiliza,      *
-* 				archivo header y makefile para compilar los modulos     *
+*               archivo header y makefile para compilar los modulos     *
 *                                                                       *
 ~       ~       ~       ~       ~       ~       ~       ~       ~       */
 
@@ -29,7 +29,7 @@
 int main(int argc, char* argv[]){
 
 	if(argc<4){
-		printf("$./ejecutable valor 1 valor 2 valor 3\n");
+		printf("$./ejecutable valor 1 (altura) valor 2 (masa corporal) valor 3\n");
 		exit(0);
 	}
 

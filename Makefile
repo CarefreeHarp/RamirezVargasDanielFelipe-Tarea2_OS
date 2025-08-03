@@ -1,6 +1,6 @@
-CC = gcc
-SRC = ramirezV_SO-02.c funciones.c
-OUT = ejecutable
+CC = gcc # compilador usado
+SRC = ramirezV_SO-02.c funciones.c # modulos
+OUT = ejecutable #nombre del ejecutable
 
-all:
+all: #instruccion para crear el ejecutable
 	$(CC) $(SRC) -o $(OUT)
