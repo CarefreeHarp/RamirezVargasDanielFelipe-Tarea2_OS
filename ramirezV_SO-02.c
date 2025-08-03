@@ -1,3 +1,27 @@
+/************************************************************************
+*                                                                       *
+*                                                                       *
+*                       ██████╗ ██╗   ██╗     ██╗                       *
+*                       ██╔══██╗██║   ██║     ██║                       *
+*                       ██████╔╝██║   ██║     ██║                       *
+*                       ██╔═══╝ ██║   ██║██   ██║                       *
+*                       ██║     ╚██████╔╝╚█████╔╝                       *
+*                       ╚═╝      ╚═════╝  ╚════╝                        *
+*                                                                       *
+*                                                                       *
+*                    Pontificia Universidad Javeriana                   *	
+*         ======================================================        *	
+* Autor: Daniel Felipe Ramirez Vargas                                   *
+* Materia: Sistemas Operativos                                          *
+* Docente: J. Corredor, PhD                                             *
+* Objetivo: Crear archivos en C para lograr una compilacion modular     *
+*                                                                       *
+* Descripcion: Creacion de un archivo main, funciones que utiliza,      *
+* 				archivo header y makefile para compilar los modulos     *
+*                                                                       *
+~       ~       ~       ~       ~       ~       ~       ~       ~       */
+
+
 #include <stdio.h>
 #include <stdlib.h>
 #include "funciones.h"

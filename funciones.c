@@ -1,25 +1,3 @@
-/************************************************************************
-*                                                                       *
-*                                                                       *
-*                       ██████╗ ██╗   ██╗     ██╗                       *
-*                       ██╔══██╗██║   ██║     ██║                       *
-*                       ██████╔╝██║   ██║     ██║                       *
-*                       ██╔═══╝ ██║   ██║██   ██║                       *
-*                       ██║     ╚██████╔╝╚█████╔╝                       *
-*                       ╚═╝      ╚═════╝  ╚════╝                        *
-*                                                                       *
-*                                                                       *
-*                    Pontificia Universidad Javeriana                   *	
-*         ======================================================        *	
-* Autor: Daniel Felipe Ramirez Vargas                                   *
-* Materia: Sistemas Operativos                                          *
-* Docente: J. Corredor, PhD                                             *
-* Objetivo: Punteros en C                                               *
-*                                                                       *
-* Descripcion:                                                          *
-*                                                                       *
-~       ~       ~       ~       ~       ~       ~       ~       ~       */
-
 #include "funciones.h"
 #include <stdio.h>
 #include <stdlib.h>
